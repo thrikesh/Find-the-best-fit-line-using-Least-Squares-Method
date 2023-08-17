@@ -46,7 +46,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](ml(ex 1).png)
+<br>![output](./ml(ex 1).png)
 
 
 ## Result:
